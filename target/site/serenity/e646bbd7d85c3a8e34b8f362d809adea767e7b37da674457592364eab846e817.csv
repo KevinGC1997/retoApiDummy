@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRUD user","obtain user successfully.","SUCCESS","2023-08-26T01:03:11.5762535-05:00[America/Bogota]","0.0","60.57"
+"CRUD user","obtain All user successfully.","SUCCESS","2023-08-26T01:06:11.365727-05:00[America/Bogota]","0.0","60.22"
